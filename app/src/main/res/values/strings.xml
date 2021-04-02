@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lullaby Creator</string>
+    <string name="default_status">Waiting for the lullaby to start...</string>
+    <string name="stop">Stop Lullaby</string>
+</resources>
